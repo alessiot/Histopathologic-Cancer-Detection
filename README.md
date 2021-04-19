@@ -1,7 +1,9 @@
 # Histopathologic Cancer Detection
 
 Author: Alessio Tamburro
+
 Date: 04/19/2021
+
 Status: Under development
 
 The data (and idea) for this project is available from Kaggle at https://www.kaggle.com/c/histopathologic-cancer-detection/data
