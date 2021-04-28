@@ -18,5 +18,5 @@ This project is organized as follows (jupyter notebook):
 data: https://www.kaggle.com/c/histopathologic-cancer-detection/data (the notebook explains how to retrieve the data from Kaggle)
 
 The notebook explaining the approach is available in this repo. If the notebook does not load, you can copy its linnk
-https://github.com/alessiot/Histopathologic-Cancer-Detection/blob/main/Histopathologic%20Cancer%20Detection.ipynb and paste it at https://nbviewer.jupyter.org/ or just use this link https://nbviewer.jupyter.org/github/alessiot/Histopathologic-Cancer-Detection/blob/main/Histopathologic%20Cancer%20Detection.ipynb.
+https://github.com/alessiot/Histopathologic-Cancer-Detection/blob/main/Histopathologic%20Cancer%20Detection.ipynb and paste it at https://nbviewer.jupyter.org/ or just use this link https://nbviewer.jupyter.org/github/alessiot/Histopathologic-Cancer-Detection/blob/main/Histopathologic%20Cancer%20Detection.ipynb. However, this display will not show the entire output.
 
