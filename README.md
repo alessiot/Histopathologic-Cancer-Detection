@@ -4,7 +4,7 @@ Author: Alessio Tamburro
 
 Date: 04/28/2021
 
-Status: Need to explore/research stain normalization in pathology images. I expect this to improve significantly the CNN modeling approach.
+Status: Need to explore/research stain normalization in pathology images. I expect this to improve significantly the CNN modeling approach. Also, I trained on my own laptop. I need to use more CPUs to experiment better.
 
 The data (and idea) for this project is available from Kaggle at https://www.kaggle.com/c/histopathologic-cancer-detection/data
 
